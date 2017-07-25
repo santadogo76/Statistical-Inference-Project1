@@ -75,7 +75,7 @@ p <- p + scale_colour_manual(
         labels = c("Exponential", "Normal"))
 ```
 
-![](figure/Rplot01.png)
+
 
 ### Observations
 ```{r echo=TRUE}
